@@ -20,7 +20,7 @@ faq_skill = SimilarityMatchingSkill(data_path = 'All.csv',
                               train = True)
 
 
-url = "https://api.telegram.org/bot1096514018:AAGXEnMUPalDuXhbIrqgnt0iwH0mQ3KNQww/"
+url = "https://api.telegram.org/.../"
 
 
 #def get_updates_json(request):  
